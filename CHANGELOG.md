@@ -13,5 +13,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release.
 
-[unreleased]: https://github.com/elizagamedev/shell-command-x.el/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/elizagamedev/shell-command-x.el/releases/tag/v0.1.0
+[unreleased]: https://github.com/elizagamedev/xkcd-303-mode.el/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/elizagamedev/xkcd-303-mode.el/releases/tag/v0.1.0
